@@ -1,4 +1,4 @@
-# ICCL
+# Unsupervised Person Re-Identification via Robust Contrastive Invariance Modeling
 
 ## Prepare Datasets
 
