@@ -4,11 +4,15 @@
 
  Dataset should look like:
 
-    ../examples/data
+    ../ICCL/data
     ├── market1501
     │   └── Market-1501-v15.09.15
-    └── dukemtmcreid
-        └── DukeMTMC-reID
+    ├── MSMT17
+    │    └── MSMT17_V1
+    └── CUHK03
+         └── Cuhk-03
 
 ## Useage
 python train.py
+
+
