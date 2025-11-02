@@ -15,5 +15,5 @@
 ## Useage
 python train.py 
 
-# Checkpoints  
+## Checkpoints  
 Download checkpoints at https://pan.baidu.com/s/1QcG84_tzvyqox4_fXPK3zA?pwd=2yjg
