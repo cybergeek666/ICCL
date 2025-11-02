@@ -13,6 +13,7 @@
          └── Cuhk-03
 
 ## Useage
-python train.py
+python train.py 
 
-
+# Checkoints  
+Download checkpoints at https://pan.baidu.com/s/1QcG84_tzvyqox4_fXPK3zA?pwd=2yjg
